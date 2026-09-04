@@ -1,19 +1,30 @@
-### Hi there 👋
+# Building close to the machine — and close to the data
 
-# About me
-![](https://komarev.com/ghpvc/?username=al1re3a)
-<!-- [![Twitter](https://img.shields.io/twitter/follow/al1re3a?style=social)](https://twitter.com/) -->
+I work across systems programming, developer tooling, automation, and scientific computing. I enjoy understanding how software behaves below the abstraction layer, then turning that knowledge into reliable, maintainable tools.
 
-## Skills:
-- N/A
+## Current focus
 
-## Languages I usually use:
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Powershell](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+- Contributing focused fixes and tests to established open-source projects
+- Systems and performance work in Rust, C, C++, and Assembly
+- Developer tools and services in Go and Python
+- Reproducible data workflows in R and Python
 
+## Languages
 
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white)
 
+## Engineering interests
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=al1re3a&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&include_private=true) 
+`systems programming` · `performance` · `embedded` · `compilers` · `developer tooling` · `testing` · `scientific computing`
+
+## Open-source work
+
+I prefer small, reviewable changes backed by tests and aligned with each project's contribution guidelines.
+
+[View my pull requests](https://github.com/pulls?q=is%3Apr+author%3Aal1re3a)
