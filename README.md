@@ -1,4 +1,53 @@
-# Building close to the machine — and close to the data
+<!-- readme-refresh:start -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/readme-banner.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/readme-banner.png">
+    <img alt="al1re3a developer profile banner" src="assets/readme-banner.png" width="100%">
+  </picture>
+</p>
+
+<h1 align="center">👋 al1re3a</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=8B5CF6&center=true&vCenter=true&width=720&lines=Systems+tools+for+developers;Offline-first+developer+utilities;Rust+%C2%B7+Go+%C2%B7+Python" alt="Typing animation: systems tools for developers">
+</p>
+
+<p align="center">
+  <a href="https://github.com/al1re3a?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Explore-Repositories-111827?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/al1re3a?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/al1re3a?style=for-the-badge&logo=github&label=Follow"></a>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,go,python,c,cpp,githubactions" alt="Rust, Go, Python, C, C++, and GitHub Actions" height="45">
+</p>
+
+> [!NOTE]
+> My public tools favor deterministic behavior, local-first workflows, explicit limitations, and outputs that are easy to review or automate.
+
+## 🔎 At a glance
+
+| | |
+|---|---|
+| **Focus** | Systems programming and developer tooling |
+| **Languages** | Rust · C · C++ · Go · Python · R · Assembly |
+| **Approach** | Small scope, explicit limits, tests, and CI |
+| **Status** | ✅ Building in public |
+
+<details>
+<summary><strong>🧭 Engineering loop</strong></summary>
+
+```mermaid
+flowchart LR
+    A["Real workflow friction"] --> B["Small dependable tool"]
+    B --> C["Tests and CI"]
+    C --> D["Reviewable open source"]
+```
+
+</details>
+
+---
+<!-- readme-refresh:end -->
 
 I work across systems programming, developer tooling, automation, and scientific computing. I enjoy understanding how software behaves below the abstraction layer, then turning that knowledge into reliable, maintainable tools.
 
