@@ -1,3 +1,26 @@
+# Small developer tools you can try today
+
+I build local tools for reviewing performance, CI configuration, and coding-agent instructions. **Current focus: making saved benchmark runs easier to compare.**
+
+## Start with BenchDelta
+
+Two Hyperfine JSON exports → a before/after comparison, configurable regression budget, and Markdown you can copy into a review.
+
+**[Get the browser ZIP — no installation](https://github.com/al1re3a/benchdelta-report/releases/latest)** · [English quick start](https://github.com/al1re3a/benchdelta-report/blob/main/README.en.md) · [راهنمای فارسی](https://github.com/al1re3a/benchdelta-report)
+
+The comparison runs locally. It highlights mean changes; it does not establish statistical significance.
+
+## Other useful starting points
+
+- **[Agent Rule Conflicts](https://github.com/al1re3a/agent-rule-conflicts)** — inspect coding-agent instructions for potential contradictions.
+- **[MatrixCart](https://github.com/al1re3a/matrixcart)** — expand static GitHub Actions matrices, including `include` / `exclude`, before spending runner time.
+
+Try a tool on your own workflow and tell me where it falls short through its issue tracker. Follow for releases and concrete improvements to these tools.
+
+**فارسی:** تمرکز فعلی روی بهترشدن همین ابزارهای قابل‌استفاده است. تجربهٔ استفاده و مثال کوچکِ بدون اطلاعات حساس را در Issues پروژه بنویسید.
+
+---
+
 <!-- readme-refresh:start -->
 <p align="center">
   <picture>
